@@ -3,7 +3,7 @@
 #### Technical Skills: Power BI, Tableau, SAP BobJ, QlikSense, ETL, MySQL, Microsoft Excel, Microsoft Fabric, Python
 
 ## Education
-- MBA., Data Science | Amity University (_Aug 2023_)								       		
+- MBA, Data Science | Amity University (_Aug 2023_)								       		
 - B.Tech, Computer Science	| MIT Academy of Engineering (_July 2023_)	 			        		
 
 ## Work Experience
