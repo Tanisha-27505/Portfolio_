@@ -44,7 +44,7 @@ The automated Devanagari text recognition using the OCR(Optical Character Recogn
 
 Constructed a Power BI dashboard with insights to examine sales information spanning three months for several AtliQ hotels located in four distinct cities.
 
-![Hospitality Analysis Dashboard(/assets/img/Hospitality_Analysis.png)
+![Hospitality Analysis Dashboard(Hospitality_Analysis.png)
 
 
 ### Supply Chain Analysis
@@ -52,7 +52,7 @@ Constructed a Power BI dashboard with insights to examine sales information span
 
 Performed Data Analysis and constructed a Power BI Dashboard which generates insights to solve a Supply Chain Issue in the FMCG domain.
 
-![Supply Chain Analysis Dashboard(/assets/img/Supply_Chain_Analysis.jpg)
+![Supply Chain Analysis Dashboard(Supply_Chain_Analysis.jpg)
 
 
 ### King County House Sales Analysis
@@ -60,7 +60,7 @@ Performed Data Analysis and constructed a Power BI Dashboard which generates ins
 
 Explored several aspects of house sales in the King County area, such as pricing patterns, property attributes, and geographic distribution, with an interactive map that visualizes insights about the county using Tableau.
 
-![King County House Sales Analysis Dashboard(/assets/img/HouseSalesDashboard.png)
+![King County House Sales Analysis Dashboard(HouseSalesDashboard.png)
 
 
 ### Netflix Analysis
@@ -68,7 +68,7 @@ Explored several aspects of house sales in the King County area, such as pricing
 
 Netflix Movies & TV Shows Detailed Analysis Using Tableau
 
-![Netflix Analysis Dashboard(/assets/img/Netflix.png)
+![Netflix Analysis Dashboard(Netflix.png)
 
 
 ## Skills & Organizations
