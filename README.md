@@ -4,7 +4,7 @@
 
 ## Education
 - MBA, Data Science | Amity University (_Aug 2023_)								       		
-- B.Tech, Computer Science	| MIT Academy of Engineering (_July 2023_)	 			        		
+- B.Tech, Computer Science | MIT Academy of Engineering (_July 2023_)	 			        		
 
 ## Work Experience
 **Data Analyst Associate @ Celebal Technologies (_Feb 2023 - Present_)**
@@ -36,7 +36,7 @@ guaranteeing superior results.
 
 The automated Devanagari text recognition using the OCR(Optical Character Recognition) platform consists of handwritten Devanagari text recognition, pdf segmentation, feature extraction with multiple algorithms, and picture categorization using different algorithms to get the most accurate outcome.
 
-![Automatic Text Recognition](/assets/img/ocr.jpg)
+![Automatic Text Recognition](ocr.jpg)
 
 
 ### Hospitality Analysis
